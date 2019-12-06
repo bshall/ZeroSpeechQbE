@@ -90,12 +90,18 @@ ENV/
 env.bak/
 venv.bak/
 
+# Numpy files
+*.npy
+
 # Spyder project settings
 .spyderproject
 .spyproject
 
 # Rope project settings
 .ropeproject
+
+# Pycharm project settings
+.idea
 
 # mkdocs documentation
 /site
